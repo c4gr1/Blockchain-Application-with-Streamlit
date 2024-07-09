@@ -15,12 +15,12 @@ This file works in conjunction with `blok.py`, `islem.py`, and `blokzincir.py`. 
     ```
 
 2. Install the necessary libraries:
-    ```bash
+    ```
     pip install streamlit
     ```
 
 3. Start the Streamlit application:
-    ```bash
+    ```
     streamlit run blockchain.py
     ```
 

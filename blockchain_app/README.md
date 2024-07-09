@@ -10,6 +10,7 @@ The `Blok` class defines how blocks are created and how hash calculations are pe
 
 This file is used in conjunction with `blokzincir.py` and `blockchain_app.py`. It does not produce any output when run on its own. Follow the steps below to use it in the project.
 
+---
 
 # Blockchain - blokzincir.py
 
@@ -28,6 +29,8 @@ This file is used in conjunction with `blok.py`, `islem.py`, and `blockchain_app
 Example of the blockchain status:
 
 ![Blockchain](../img/img2.png)
+
+---
 
 # Transaction Definition - islem.py
 

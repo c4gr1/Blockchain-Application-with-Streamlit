@@ -9,7 +9,7 @@ This file works in conjunction with `blok.py`, `islem.py`, and `blokzincir.py`. 
 ## Usage
 
 1. Activate the virtual environment:
-    ```bash
+    ```
     source venv/bin/activate  # Linux/MacOS
     venv\Scripts\activate  # Windows
     ```

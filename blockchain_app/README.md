@@ -27,7 +27,7 @@ This file is used in conjunction with `blok.py`, `islem.py`, and `blockchain_app
 
 Example of the blockchain status:
 
-![Blockchain](img/img2.png)
+![Blockchain](../img/img2.png)
 
 # Transaction Definition - islem.py
 
@@ -45,5 +45,5 @@ This file is used in conjunction with `blok.py`, `blokzincir.py`, and `blockchai
 
 Example of a transaction in JSON format:
 
-![Transaction](img/img1.png)
+![Transaction](../img/img1.png)
 

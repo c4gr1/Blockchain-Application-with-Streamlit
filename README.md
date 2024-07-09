@@ -30,4 +30,4 @@ This file works in conjunction with `blok.py`, `islem.py`, and `blokzincir.py`. 
 
 Example of the Streamlit interface:
 
-![Blockchain Application](img/blockchain.png)
+![Blockchain Application](img/img3.png)
